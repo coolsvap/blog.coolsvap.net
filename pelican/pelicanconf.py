@@ -9,6 +9,7 @@ SITEURL = 'coolsvap.github.io'
 PATH = 'content'
 
 TIMEZONE = 'Asia/Kolkata'
+THEME="themes"
 
 DEFAULT_LANG = u'en'
 
@@ -29,3 +30,8 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+TWITTER_USER="coolsvap"
+FACEBOOK_LIKE=True
+SEARCH_BOX=True
+DISPLAY_CATEGORIES_ON_MENU=True
+
